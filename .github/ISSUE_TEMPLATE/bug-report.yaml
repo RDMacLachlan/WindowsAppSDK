@@ -44,6 +44,7 @@ body:
       description: Please specify the packaging type you're using when you encountered the issue.
       multiple: true
       options:
+        - "Packaged (Sparse package)"
         - "Packaged (MSIX)"
         - "Unpackaged"
   - type: dropdown
